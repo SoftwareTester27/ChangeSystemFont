@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI (TrueType)"="Segoe UI Variable"
+"Segoe UI Bold (TrueType)"="Segoe UI Variable Static Display Bold"
+"Segoe UI Bold Italic (TrueType)"="Segoe UI Variable Static Display Bold"
+"Segoe UI Italic (TrueType)"=""
+"Segoe UI Light (TrueType)"="Segoe UI Variable Static Display Light"
+"Segoe UI Semibold (TrueType)"="Segoe UI Variable Static Display Semibold"
+"Segoe UI Symbol (TrueType)"="Segoe Fluent Icons"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"Segoe UI"="Segoe UI Variable"
